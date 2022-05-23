@@ -1,6 +1,6 @@
 // Title: Copy constructor
 // Purpose:  Practice copy constructor - pass by value,value of a class, makes sure it's not modified the original value (copy only)
-// Author:
+// Author: Fransiskus Agapa
 
 #include <iostream>
 #include "FunClass.h"
